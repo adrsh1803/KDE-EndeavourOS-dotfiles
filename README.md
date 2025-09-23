@@ -21,3 +21,23 @@ cp -r ~/kde-config/.local/share/* ~/.local/share/
 - OS-installed (pacman / AUR) — live under /usr/share/... and must be installed on the target system.
 
 If a widget or theme is missing after restore, install it via System Settings → Get New [Widgets / Themes / Icons],
+
+
+### Themes
+
+-SDDM- CBMAnimePetGlobe(1.0) by Pentad
+-Global Theme- Breeze
+-Application Style- Breeze
+-Colours- Sweet-Ambar-Blue
+-Plasma Style- Sweet
+-Icons- Mkos-Big-Sur-Transparent-Panel
+-Splash Screen- Lain for Plasma6
+-Terminal- Konsole
+
+### Widgets
+
+-Desktop Indicator
+-Catwalk
+-Modern Clock
+-Panel Colorizer
+-PlasMusic Toolbar
