@@ -1,6 +1,11 @@
 # KDE-EndeavourOS-dotfiles
 This repo contains the dotfiles for my KDE Plasma configuration on EOS
 
+## Preview
+![sc1](images/screenshot1.png)
+![sc2](images/screenshot2.png)
+![sc3](images/screenshot3.png)
+
 
 1. Clone the repo (choose SSH or HTTPS):
 ```bash
