@@ -25,19 +25,19 @@ If a widget or theme is missing after restore, install it via System Settings â†
 
 ### Themes
 
--SDDM- CBMAnimePetGlobe(1.0) by Pentad
--Global Theme- Breeze
--Application Style- Breeze
--Colours- Sweet-Ambar-Blue
--Plasma Style- Sweet
--Icons- Mkos-Big-Sur-Transparent-Panel
--Splash Screen- Lain for Plasma6
--Terminal- Konsole
+- SDDM- CBMAnimePetGlobe(1.0) by Pentad
+- Global Theme- Breeze
+- Application Style- Breeze
+- Colours- Sweet-Ambar-Blue
+- Plasma Style- Sweet
+- Icons- Mkos-Big-Sur-Transparent-Panel
+- Splash Screen- Lain for Plasma6
+- Terminal- Konsole
 
 ### Widgets
 
--Desktop Indicator
--Catwalk
--Modern Clock
--Panel Colorizer
--PlasMusic Toolbar
+- Desktop Indicator
+- Catwalk
+- Modern Clock
+- Panel Colorizer
+- PlasMusic Toolbar
