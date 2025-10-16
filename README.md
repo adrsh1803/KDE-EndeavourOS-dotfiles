@@ -1,6 +1,5 @@
 # KDE-EndeavourOS-dotfiles
-This repo contains the dotfiles for my KDE Plasma configuration on EOS
-
+KDE Plasma config files from EOS. 
 ## Preview
 ![sc1](images/screenshot1.png)
 ![sc2](images/screenshot2.png)
