@@ -6,7 +6,7 @@ KDE Plasma config files from EOS.
 ![sc3](images/screenshot3.png)
 
 
-1. Clone the repo (choose SSH or HTTPS):
+1. Clone the repo:
 ```bash
 git clone https://github.com/adrsh1803/KDE-EndeavourOS-dotfiles.git ~/kde-config
 ```
